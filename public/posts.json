@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "title": "Introduction to HTML5",
+    "category": "HTML",
+    "author": "Venkatesh",
+    "date": "2026-10-20",
+    "excerpt": "Learn semantic HTML elements and the structure of a modern webpage."
+  },
+  {
+    "id": 2,
+    "title": "CSS Flexbox and Grid",
+    "category": "CSS",
+    "author": "Venkatesh",
+    "date": "2026-10-21",
+    "excerpt": "Explore flexible layouts, grid systems, and responsive web design."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Essentials",
+    "category": "JavaScript",
+    "author": "Venkatesh",
+    "date": "2026-10-22",
+    "excerpt": "Understand arrow functions, let, const, destructuring, and array methods."
+  },
+  {
+    "id": 4,
+    "title": "Getting Started with React",
+    "category": "React",
+    "author": "Venkatesh",
+    "date": "2026-10-23",
+    "excerpt": "Build reusable components and manage UI using props and state."
+  },
+  {
+    "id": 5,
+    "title": "Understanding React Props",
+    "category": "React",
+    "author": "Venkatesh",
+    "date": "2026-10-24",
+    "excerpt": "Pass data between components and create reusable interfaces."
+  },
+  {
+    "id": 6,
+    "title": "Responsive Web Design",
+    "category": "CSS",
+    "author": "Venkatesh",
+    "date": "2026-10-25",
+    "excerpt": "Make websites work smoothly on desktop, tablet, and mobile devices."
+  }
+]
